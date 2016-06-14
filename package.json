@@ -5,7 +5,13 @@
   "description": "The start of a theme made to look like the new (e.g. Firefox 49+) developer tools theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "firefox",
+    "developer",
+    "edition",
+    "green",
+    "blue",
+    "gray"
   ],
   "repository": "https://github.com/blakek/firefox-developer-edition-syntax",
   "license": "MIT",
