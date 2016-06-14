@@ -1,0 +1,15 @@
+{
+  "name": "firefox-developer-edition-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "The start of a theme made to look like the new (e.g. Firefox 49+) developer tools theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/firefox-developer-edition-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
